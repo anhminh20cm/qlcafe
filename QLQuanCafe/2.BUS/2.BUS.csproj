@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_2.BUS</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ISevices\" />
+    <Folder Include="ViewModel\" />
+    <Folder Include="Untilities\" />
+    <Folder Include="Sevices\" />
+  </ItemGroup>
+
+</Project>
